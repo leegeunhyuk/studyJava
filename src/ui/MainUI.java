@@ -46,6 +46,7 @@ public class MainUI {
 
 	public static void main(String[] args) {
 		new MainUI().mainPrint();
+		System.out.println("¤¾¤·");
 	}
 
 }
